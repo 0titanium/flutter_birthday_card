@@ -18,7 +18,6 @@ class BirthdayCard extends StatelessWidget {
                 Text('Sam!', style: TextStyle(fontSize: 88.0)),
               ],
             ),
-            // SizedBox(height: 10.0), // 추가적인 간격을 넣기 위해 SizedBox 사용
 
             Row(
               mainAxisAlignment: MainAxisAlignment.end,
